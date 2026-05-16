@@ -6,7 +6,7 @@ second you can download the Auto_recon.py tool
 
 in Linux/MacOS go to CLI (Termenal) and write 
 
-`git clone [git@github.com](mailto:git@github.com):QAhmed09/Auto_recon.git`
+`git clone git@github.com:QAhmed09/Auto_recon.git`
 
 `cd Auto_recon`
 
